@@ -99,6 +99,7 @@ a:hover{
   border: 6px solid #9AAEB7;
 }
 .item h5{
+  width: 33px;
   background-color: #9AAEB7;
   color: #F5E8D7;
   border: 3px solid #F5E8D7;
