@@ -88,15 +88,24 @@ a:hover{
   color: #9AAEB7;
   font-size: 19px;
 }
+.item{
+  padding-top: 5px;
+}
 .item p{
+  padding: 0px 11px 0px 11px;
   font-family: antique-olive,sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size: 12px;
+  text-align: justify;
   letter-spacing: 1.3px;
 }
 .item img{
   border: 6px solid #9AAEB7;
+}
+.item h4{
+  font-size: 22px;
+  color: #9AAEB7;
 }
 .item h5{
   margin: 0 auto;
