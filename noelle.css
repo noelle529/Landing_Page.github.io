@@ -9,16 +9,20 @@ body{
   width: 100%;
   height: auto;
   font-family: antique-olive,sans-serif;
-font-weight: 300;
-font-style: normal;
+  font-weight: 300;
+  font-style: normal;
   background-color: #F5E8D7;
 }
-
+p{
+  font-family: antique-olive,sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
 
 h1 h2 h3{
   font-family: antique-olive-condensed,sans-serif;
-font-weight: 400;
-font-style: normal;
+  font-weight: 400;
+  font-style: normal;
 }
 /*nav/logo styling*/
 .flexlogo{
@@ -37,10 +41,10 @@ font-style: normal;
 
 }
 .logoitem nav{
-margin-right: 44px;
+  margin-right: 44px;
 }
 .logoitem img{
-margin-left: 10px;
+  margin-left: 10px;
 }
 .logoitem a{
   font-family: antique-olive,sans-serif;
