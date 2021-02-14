@@ -96,16 +96,23 @@ a:hover{
   font-family: antique-olive,sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size: 12px;
+  font-size: 12.7px;
   text-align: justify;
-  letter-spacing: 1.3px;
+  letter-spacing: 1.1px;
+  word-spacing: -1.1px;
+  color: #200F0F;
 }
 .item img{
   border: 6px solid #9AAEB7;
 }
 .item h4{
-  font-size: 22px;
-  color: #9AAEB7;
+  font-size: 18px;
+  margin: 0 auto;
+  margin-bottom: 5px;
+  width: 244px;
+  color: #200F0F;
+  text-align: center;
+  
 }
 .item h5{
   margin: 0 auto;
