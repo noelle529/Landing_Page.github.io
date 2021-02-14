@@ -98,6 +98,11 @@ a:hover{
 .item img{
   border: 6px solid #9AAEB7;
 }
+.item h4{
+  background-color: black;
+  color: white;
+  border: 3px solid white;
+}
 
 /*about styling*/
 .about {
