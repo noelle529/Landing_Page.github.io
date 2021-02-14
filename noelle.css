@@ -92,13 +92,13 @@ a:hover{
   font-family: antique-olive,sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size: 2px;
+  font-size: 12px;
   letter-spacing: 1.7px;
 }
 .item img{
   border: 6px solid #9AAEB7;
 }
-.item h4{
+.item h5{
   background-color: black;
   color: white;
   border: 3px solid white;
