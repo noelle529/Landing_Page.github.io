@@ -1,0 +1,48 @@
+$main-color: #200F0F;
+$back-color: #F5E8D7;
+$blue-color: #9AAEB7;
+$main-font: antique-olive,sans-serif;
+
+body{
+    color: $main-color;
+    background-color: $back-color;
+    font: {
+        family: $main-font;
+        weight: 300;
+        style: normal;
+    }
+}
+p{
+    font: {
+        family: $main-font;
+        weight: 300;
+        style: normal;
+    }
+
+}
+
+.flexlogo{
+    z-index: 1000;
+    background-color: $back-color;
+    position: fixed;    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 0;
+    top: 0;
+    left: 0;
+    padding-right: 25px;
+}
+.logoitem a{
+    font : {
+        family: $main-font;
+        size: 20px;
+        decoration: none;
+    }
+    text-align: center;
+    color: $maincolor;
+    padding-right: 10px;
+    letter-spacing: 1.7px;
+  }
